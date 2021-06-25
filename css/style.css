@@ -1,0 +1,53 @@
+.cc{
+	overflow: hidden
+	
+}
+.art{
+	min-height: 100px;
+	width: 20%;
+	float: left;
+}
+.blue{
+	background-color: blue;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.yello{
+	background-color: yellow;
+}
+.rew{
+	background-color: blue;
+}
+.bb{
+	font-size: 55px;
+	color: blue;
+	background-color: red;
+	border: blue outset;
+	width: 80%;
+}
+.zz{
+	overflow: hidden;
+}
+.vv{
+	font-size: 500px red;
+	font-style: italic;
+	background-color: green;
+}
+.tt{
+	float: left;
+	width: 30%;
+}
+.z{
+	background-color: lavender;
+}
+.x{
+	background-color: ivory;
+
+}
+.y{
+	background-color: yellow;
+}
